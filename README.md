@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love automating boring tasks!
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tuankiet.vu.9693)
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tuankiet.vu.9693)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:địa_chỉ_của_bạn@gmail.com)
 
 # 💻 Tech Stack:
