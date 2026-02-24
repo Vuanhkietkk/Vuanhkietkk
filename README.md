@@ -1,4 +1,11 @@
 
+# Hi there, I'm Vu Anh Kiet 👋 
+### First-years IT Student @ VNU-UET 🎓
+
+- 🔭 I’m currently working on: **C++ Algorithms & Python scripts**
+- 🌱 I’m currently learning: **DevOps, Embedded Systems/IoT**
+- ⚡ Fun fact: I love automating boring tasks!
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuankiet.vu.9693) 
 
